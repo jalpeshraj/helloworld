@@ -1,0 +1,16 @@
+diff --git a/sam1 b/sam1
+index d14d9ca..ddf6614 100644
+--- a/sam1
++++ b/sam1
+@@ -1 +1,3 @@
+-This is sam1
++This is sam11
++
++This is sam2patch
+diff --git a/sam2 b/sam2
+deleted file mode 100644
+index ab5db48..0000000
+--- a/sam2
++++ /dev/null
+@@ -1 +0,0 @@
+-This is sam2
